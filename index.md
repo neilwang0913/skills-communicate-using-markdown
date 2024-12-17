@@ -1,5 +1,4 @@
-# Hello
-####### World
+# This page shows the pro feature of Markdown as a webpage through github platform
 
 ##life is about protection 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
